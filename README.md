@@ -39,7 +39,7 @@
   - 캐릭터 이모티콘 및 사진 이미지에 사용자가 직접 메시지를 입력하면 폰트 및 스타일, 색상, 3D효과, 애니메이션 등이 즉시 변환되어 쉽고 빠르게 이모티콘이나 짤 또는 움짤로 만들어주는 앱 
 
   - Boodl 앱 구글 플레이: https://play.google.com/store/apps/details?id=me.insertcoin.app.boodl
-  - Boodl 페이스북 페이지: https://www.facebook.com/Starship-Vending-machine-945987715484735/
+  - Boodl 페이스북 페이지: https://www.facebook.com/Boodlme/
 
 2. 루디 : 모바일 동영상 리믹스 앱 (미출시)
   - Time-line 기반의 편집 방식이 아닌, 전혀 다른 UX의 동영상 편집/제작 앱
