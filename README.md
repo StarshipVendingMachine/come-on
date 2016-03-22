@@ -74,7 +74,7 @@
 - 기존에 익숙한 도구 외에도 필요하다면 새로운 도구를 찾고, 사용하는데에 있어서 적극적이었으면 합니다.
 - 하나 이상의 분야에 몰입하고, 실행으로 옮길 수 있는 능력자.
 
-자세한 내용은 담당별 직무 채용 페이지 참조(https://github.com/StarshipVendingMachine/come-on/job-description.md)
+자세한 내용은 담당별 직무 채용 페이지 참조(https://github.com/StarshipVendingMachine/come-on/blob/master/job-description.md)
 
 --
 
