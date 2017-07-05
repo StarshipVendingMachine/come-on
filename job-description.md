@@ -79,13 +79,13 @@
     * Web socket 개발 경험
     * Erlang, Elixir, Go 등 기반의 프로젝트 경험
 
-##### 6. 그래픽스/비전 관련 기술 연구원
+##### 6. 그래픽스 / 비전 기술 연구원
 * main task
-    * - Mobile device 상에 장착되어 있는 color/depth camera로부터 입력된 영상의 고속 영상 처리 기술 연구
-    * - 영상 필터링, SfM, 오브젝트 추적, 동작 인식 등 AR/VR로 연계 가능한 다양한 차세대 영상 처리 기술 연구
+    * Mobile device 상에 장착되어 있는 color/depth camera로부터 입력된 영상의 고속 영상 처리 기술 연구
+    * 영상 필터링, SfM, 오브젝트 추적, 동작 인식 등 AR/VR로 연계 가능한 다양한 차세대 영상 처리 기술 연구
 * Requirement
     * 컴퓨터 비전 / 컴퓨터 그래픽스 관련 박사 학위 소지 혹은 컴퓨터 비전 / 컴퓨터 그래픽스 관련 석사 학위 소지 및 관련 업계 3년 이상 종사
-    * - 영상 처리 및 패턴 인식 관련 기초적 배경 지식
+    * 영상 처리 및 패턴 인식 관련 기초적 배경 지식
     * OpenGL 기반의 그래픽스 렌더링 지식
     * 차세대 그래픽스 API (Vulkan, Metal) 관련 경험자 우대
     * Parallel programming / GPGPU computing 관련 기초적 배경 지식
