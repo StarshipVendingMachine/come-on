@@ -36,50 +36,58 @@
 --
 
 ### 우리는 개발자를 모시고 있습니다.
-우리는 작은 조직이지만 각자의 분야에서 전문성을 가지고 서비스를 만들어가는 것을 즐거워하는 사람을 모시고 있습니다.
+동영상 기반의 소셜 라이브 서비스 개발에 참여하실 분을 찾습니다.
+* 모바일 앱 혹은 데스크톱 앱으로 영상을 촬영 및 송출
+* 모바일 앱 혹은 웹에서 영상을 수신
+* 영상 내에 다양한 특수효과 합성
+* 미니 게임, 커머스 등 다양한 부가 서비스 제공
 
-또한 개발시 TDD 방법론으로 익숙하거나 적극적으로 적용하려고 하시는 분을 환영합니다.
+##### 1. 동영상 서비스 개발자 (Media player / streaming)
+* 동영상 기반 기술에 대한 이해 및 활용 경험
+* 우대사항
+    * RTMP, WebRTC 활용 경험
+    * FFMPEG 활용 경험
+    * Android/iOS 미디어 관련 개발 경험
 
-##### 기술 스택
-- 앱 개발에 필요한 컴퓨터 그래픽스 및 비전 라이브러리를 C++ 기반으로 자체 구축하고 있습니다.
-- 현재 Android 의 경우 Java, C++ 를 이용하여 구현 되어 있고,
-서버의 경우 파이썬 Flask 기반으로 인프라는 Heroku와 AWS를 사용하여 운영중입니다.
-- 기술 스택에 대해서는 서비스를 만들고 유지보수하기에 적합한 것인지 항상 염두에 두고 있습니다.
-Java, Ruby, Clojure, Node.js, Go 기반의 서버에 대해서도 언제나 가능성을 열어두고 있습니다.
+##### 2. Android 개발자 (React native / Java)
+* Android 앱 개발 3년 이상
+* 우대사항
+    * 동영상 서비스 개발 경험
+    * GLES/EGL 관련 경험
 
-- 코드는 [Github](https://github.com/)에서 프라이빗 저장소를 쓰고 있습니다.
-- 협업 도구로 [Zeplin](https://zeplin.io) [Trello](https://trello.com/), [Slack](https://slack.com/), [Waffle](https://waffle.io) 를 사용하고 있습니다.
+##### 3. iOS 개발자 (React native / Swift / Objective-C)
+* iOS 앱 개발 3년 이상
+* 우대사항
+    * 동영상 서비스 개발 경험
+    * GLES/EGL 관련 경험
 
-##### 1. Android Developer
-동영상과 이미지 처리에 관심이 많고 이를 안드로이드 앱으로 구현하실 수 있는 분을 찾습니다.
+##### 4. Front-end 개발자
+* Ruby on Rails 기반 서비스 개발 경력 1년 이상
+* Jquery, Javascript 기반 FrontEnd 개발 경험자
+* Front-end framework 경험자(ex. Semantic UI, Bootstrap, etc.)
+* CMS 경험자
+* 우대사항
+    * 동영상 서비스 개발 경험
+    * D3.js등을 이용한 Data Visualization 개발 경험
 
-##### 우대
-- 안드로이드 클라이언트 개발에 대해서 스스로 자신감이 있으며 모듈화를 하실 수 있는 분
-- 안드로이드 SDK/NDK/PDK 에 대한 이해와 필요할 경우 오픈되어 있는 코드 기반으로 찾아서 문제를 해결 가능한 분
-- 안드로이드 Media 프로그래밍(MediaCodec/MediaMuxer 등의 Stagefright 기반 및 OpenGL 렌더링에 대한 이해)대해서 이해하고 있고, 이를 이용하여 앱을 개발 가능한 분
-- 안드로이드 UI 컴포넌트를 잘 이해하고 있으며 빠르게 조합해서 프로토타입을 만들 수 있으신 분
+##### 5. Back-end 개발자
+* Ruby on Rails 기반 서비스 개발 경력 1년 이상
+* 다양한 RDBMS 경험자
+* 글로벌 서비스 개발 경험
+* AWS에 대한 이해
+* 우대사항
+    * Web socket 개발 경험
+    * Erlang, Elixir, Go 등 기반의 프로젝트 경험
 
-##### 2. iOS Developer
-동영상과 이미지 처리에 관심이 많고 이를 iOS 앱을 구현하실 수 있는 분을 찾습니다.
-
-##### 우대
-- iOS 개발에 대해서 스스로 자신감이 있으며 모듈화를 하실 수 있는 분
-- OpenGL 렌더링에 대한 이해 및 ffmpeg 등의 코덱에 대한 이해가 있으신 분
-- iOS UI 컴포넌트를 잘 이해하고 있으며 빠르게 조합해서 프로토타입을 만들 수 있으신 분
-
-##### 3. Back-end Developer
-동영상과 이미지 처리에 관심이 많고 영상/이미지 트랜스코딩, 소셜 피드, 공유, 편집 기능등을 같이 만들어갈 분을 찾습니다.
-
-##### 우대
-- Web 기본 프로토콜을 포함해서 REST API 에 대한 이해가 있으신분
-- Rails나 Django 등의 어플리케이션 프레임웍에 대한 이해 및 활용해서 개발이 가능하신 분
-- Back-end 만 개발한다는 마음가짐보다, Full-stack 으로 개발해야 되는 상황을 즐기시는 분
-
-##### 4. Front-end Developer
-사용자 UX에 관심이 많고, 이를 매끈하고 화려하게 사용자에게 어필할 수 있는 분을 찾습니다.
-
-##### 우대
-- HTML/CSS/Javascript 에 대한 기본적인 이해를 바탕으로 Front-end 개발이 가능하신 분
-- Bootstrap이나 Foundation 에 대한 이해를 바탕으로 필요할 경우 도구를 적절히 사용하고 커스터마이징 가능하신 분
-
---
+##### 6. 그래픽스/비전 관련 기술 연구원
+* main task
+    * - Mobile device 상에 장착되어 있는 color/depth camera로부터 입력된 영상의 고속 영상 처리 기술 연구
+    * - 영상 필터링, SfM, 오브젝트 추적, 동작 인식 등 AR/VR로 연계 가능한 다양한 차세대 영상 처리 기술 연구
+* Requirement
+    * 컴퓨터 비전 / 컴퓨터 그래픽스 관련 박사 학위 소지 혹은 컴퓨터 비전 / 컴퓨터 그래픽스 관련 석사 학위 소지 및 관련 업계 3년 이상 종사
+    * - 영상 처리 및 패턴 인식 관련 기초적 배경 지식
+    * OpenGL 기반의 그래픽스 렌더링 지식
+    * 차세대 그래픽스 API (Vulkan, Metal) 관련 경험자 우대
+    * Parallel programming / GPGPU computing 관련 기초적 배경 지식
+    * OpenGL 4.5 / OpenCL / CUDA / Vulkan / Metal 기반의 GPU computing 관련 경험자 우대
+    * C++ 숙달
