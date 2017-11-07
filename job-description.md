@@ -75,10 +75,10 @@
 * RDB 설계, 분석 경험
 * 우대사항
     * Web socket 개발 경험
-    * 클라우드 컴퓨팅(AWS, Azure)에 대한 이해
+    * 클라우드 컴퓨팅(AWS, Azure)에 대한 이해
     * 글로벌 서비스 개발 경험
-    * Firebase 이용 경험
-    * Erlang, Elixir, Go 등 기반의 프로젝트 경험
+    * Firebase 이용 경험
+    * Erlang, Elixir, Go 등 기반의 프로젝트 경험
 
 ##### 6. 그래픽스 / 비전 기술 연구원
 * main task
