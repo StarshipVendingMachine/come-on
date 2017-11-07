@@ -71,13 +71,14 @@
     * D3.js등을 이용한 Data Visualization 개발 경험
 
 ##### 5. Back-end 개발자
-* Ruby on Rails 기반 서비스 개발 경력 1년 이상
-* 다양한 RDBMS 경험자
-* 글로벌 서비스 개발 경험
-* AWS에 대한 이해
+* Ruby on Rails 기반 서비스 개발 경력 1년 이상 이거나 컴파일드언어와 인터프리티드언어를 모두 경험한 경력 2년 이상
+* RDB 설계, 분석 경험
 * 우대사항
     * Web socket 개발 경험
-    * Erlang, Elixir, Go 등 기반의 프로젝트 경험
+    * 클라우드 컴퓨팅(AWS, Azure)에 대한 이해
+    * 글로벌 서비스 개발 경험
+    * Firebase 이용 경험
+    * Erlang, Elixir, Go 등 기반의 프로젝트 경험
 
 ##### 6. 그래픽스 / 비전 기술 연구원
 * main task
