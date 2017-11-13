@@ -51,15 +51,31 @@
 
 ##### 2. Android 개발자 (Java)
 * Android 앱 개발 3년 이상
+* Restful API를 이용한 앱 개발 경험
+* Firebase Database 경험
+* Realm Database 경험
+* Open source ui (ex. awesome android)
+* Google Play 출시 경험
 * 우대사항
-    * 동영상 서비스 개발 경험
+    * Kotlin
+    * RxJava, RxKotlin 
+    * 카메라 / 필터 / 동영상 서비스 관렵 앱경험
+    * 커머스 / 결재시스템 연동
+    * Localization 경험
     * GLES/EGL 관련 경험
     * React native 개발 경험
 
 ##### 3. iOS 개발자 (Swift / Objective-C)
 * iOS 앱 개발 3년 이상
+* Restful API를 이용한 앱 개발 경험
+* Firebase Database 경험
+* Realm Database 경험
+* Open source ui (ex. awesome ios)
+* AppStore 출시 경험
 * 우대사항
-    * 동영상 서비스 개발 경험
+    * 카메라 / 필터 / 동영상 서비스 관렵 앱경험
+    * 커머스 / 결재시스템 연동
+    * Localization 경험
     * GLES/EGL 관련 경험
     * React native 개발 경험
 
