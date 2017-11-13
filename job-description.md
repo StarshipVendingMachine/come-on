@@ -66,14 +66,15 @@
     * React native 개발 경험
 
 ##### 3. iOS 개발자 (Swift / Objective-C)
-* iOS 앱 개발 3년 이상
+* Swift4, Objective-C
 * Restful API를 이용한 앱 개발 경험
 * Firebase Database 경험
 * Realm Database 경험
-* Open source ui (ex. awesome ios)
-* AppStore 출시 경험
+* Appstore 출시 경험
 * 우대사항
     * 카메라 / 필터 / 동영상 서비스 관렵 앱경험
+    * TDD 경험
+    * Kingfisher 등 이미지 라이브러리 및 이미지 캐싱 관련 기술 경험
     * 커머스 / 결재시스템 연동
     * Localization 경험
     * GLES/EGL 관련 경험
