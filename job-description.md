@@ -49,36 +49,39 @@
     * FFMPEG 활용 경험
     * Android/iOS 미디어 관련 개발 경험
 
-##### 2. Android 개발자 (React native / Java)
+##### 2. Android 개발자 (Java)
 * Android 앱 개발 3년 이상
 * 우대사항
     * 동영상 서비스 개발 경험
     * GLES/EGL 관련 경험
+    * React native 개발 경험
 
-##### 3. iOS 개발자 (React native / Swift / Objective-C)
+##### 3. iOS 개발자 (Swift / Objective-C)
 * iOS 앱 개발 3년 이상
 * 우대사항
     * 동영상 서비스 개발 경험
     * GLES/EGL 관련 경험
+    * React native 개발 경험
 
 ##### 4. Front-end 개발자
-* Ruby on Rails 기반 서비스 개발 경력 1년 이상
 * Jquery, Javascript 기반 FrontEnd 개발 경험자
 * Front-end framework 경험자(ex. Semantic UI, Bootstrap, etc.)
-* CMS 경험자
+* scss 사용 경험자
 * 우대사항
+    * Ruby on Rails 기반 서비스 개발 경력 1년 이상
     * 동영상 서비스 개발 경험
     * D3.js등을 이용한 Data Visualization 개발 경험
+    * CMS 경험자
 
 ##### 5. Back-end 개발자
-* Ruby on Rails 기반 서비스 개발 경력 1년 이상 이거나 컴파일드언어와 인터프리티드언어를 모두 경험한 경력 2년 이상
+* MVC architecture의 서버 개발 경험
 * RDB 설계, 분석 경험
 * 우대사항
     * Web socket 개발 경험
     * 클라우드 컴퓨팅(AWS, Azure)에 대한 이해
     * 글로벌 서비스 개발 경험
     * Firebase 이용 경험
-    * Erlang, Elixir, Go 등 기반의 프로젝트 경험
+    * Ruby on Rails 기반 서비스 개발 경력 1년 이상
 
 ##### 6. 그래픽스 / 비전 기술 연구원
 * main task
