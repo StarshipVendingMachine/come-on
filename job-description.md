@@ -60,7 +60,7 @@
     * Kotlin
     * RxJava, RxKotlin 
     * 카메라 / 필터 / 동영상 서비스 관렵 앱경험
-    * 커머스 / 결재시스템 연동
+    * 커머스 / 결제시스템 연동
     * Localization 경험
     * GLES/EGL 관련 경험
     * React native 개발 경험
@@ -75,7 +75,7 @@
     * 카메라 / 필터 / 동영상 서비스 관렵 앱경험
     * TDD 경험
     * Kingfisher 등 이미지 라이브러리 및 이미지 캐싱 관련 기술 경험
-    * 커머스 / 결재시스템 연동
+    * 커머스 / 결제시스템 연동
     * Localization 경험
     * GLES/EGL 관련 경험
     * React native 개발 경험
@@ -96,7 +96,8 @@
 * 우대사항
     * Web socket 개발 경험
     * 클라우드 컴퓨팅(AWS, Azure)에 대한 이해
-    * 글로벌 서비스 개발 경험
+    * 결제 서비스 개발 경험
+    * 글로벌 서비스 개발 경험
     * Firebase 이용 경험
     * Ruby on Rails 기반 서비스 개발 경력 1년 이상
 
