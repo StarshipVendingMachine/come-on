@@ -111,5 +111,17 @@
     * OpenGL 기반의 그래픽스 렌더링 지식
     * 차세대 그래픽스 API (Vulkan, Metal) 관련 경험자 우대
     * Parallel programming / GPGPU computing 관련 기초적 배경 지식
+    * Deep learning에 관한 기초지식
     * OpenGL 4.5 / OpenCL / CUDA / Vulkan / Metal 기반의 GPU computing 관련 경험자 우대
     * C++ 숙달
+
+##### 7. 서비스 분석 (Growth Hacking)
+* Main task
+    * 서비스 내에서의 사용자 행동을 통계적인 방법으로 분석하여,
+    * 보다 많은 사용자들이 서비스를 이용할 수 있는 방향에 대한 연구를 진행
+* Requirement
+    * 통계학적 지식
+    * 원활한 스프레드 시트 활용 능력
+    * 기초적인 스크립트 프로그래밍 능력
+* 우대사항
+    * 응용통계학과 혹은 인지심리학 전공자
